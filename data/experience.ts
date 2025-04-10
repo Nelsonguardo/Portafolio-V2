@@ -7,7 +7,7 @@ export interface Experience {
 
 export const workExperience: Experience[] = [
   {
-    title: "Ingeniero Desarrollador",
+    title: "Administrador de base de datos",
     company: "Quantum Data System",
     period: "Agosto 2024 - Actualidad",
     description: [
